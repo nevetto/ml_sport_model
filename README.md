@@ -1,2 +1,3 @@
 # ml_sport_model
-saving the machine learning sport model to be re-used.
+Saving trained machine learning sport model that can be re-used.
+Deployment of sport prediction model with django
